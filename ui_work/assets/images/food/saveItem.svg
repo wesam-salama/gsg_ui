@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.667" height="22" viewBox="0 0 14.667 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="14.667" height="22" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_Icons_Close_Copy_4" data-name="_Icons / Close Copy 4" clip-path="url(#clip-path)">
+    <path id="_13_Bookmark" data-name="13 Bookmark" d="M13.292,22a1.366,1.366,0,0,1-.971-.4L8.305,17.582a1.374,1.374,0,0,0-1.943,0L2.347,21.6A1.376,1.376,0,0,1,0,20.626V2.291A2.294,2.294,0,0,1,2.291,0H12.376a2.294,2.294,0,0,1,2.291,2.291V20.626A1.375,1.375,0,0,1,13.292,22ZM7.333,15.48a3.056,3.056,0,0,1,2.174.9l3.46,3.46V2.291a.592.592,0,0,0-.591-.591H2.291a.592.592,0,0,0-.591.591V19.841L5.161,16.38A3.054,3.054,0,0,1,7.333,15.48Z" transform="translate(0 0)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_work/ui/screens/edit_profile.dart';
-import 'package:ui_work/ui/screens/profile.dart';
+import 'ui/screens/todo_gsg_assigment/ui/screens/tabBar_view.dart';
 
 void main() {
   runApp(MyApp());
@@ -12,10 +11,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        // primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: ProfilePage(),
+      home: TapBarExample(),
     );
   }
 }

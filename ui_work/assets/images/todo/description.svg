@@ -1,0 +1,19 @@
+<svg id="Page_1" data-name="Page 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.991" height="21.653" viewBox="0 0 17.991 21.653">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H17.991V21.653H0Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3">
+    <path id="Clip_2-2" data-name="Clip 2" d="M0,0H17.991V21.653H0Z" transform="translate(0 0)" fill="none"/>
+    <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+      <path id="Fill_1" data-name="Fill 1" d="M13.5,21.653H1.544A1.546,1.546,0,0,1,0,20.109V4.074A1.546,1.546,0,0,1,1.544,2.53H2.95V1.544A1.546,1.546,0,0,1,4.495,0H16.454A1.546,1.546,0,0,1,18,1.544V17.578a1.546,1.546,0,0,1-1.544,1.544h-1.4v.986A1.546,1.546,0,0,1,13.5,21.653ZM1.544,3.766a.309.309,0,0,0-.309.309V20.109a.309.309,0,0,0,.309.309H13.5a.309.309,0,0,0,.309-.309v-.986H4.495A1.546,1.546,0,0,1,2.95,17.578V3.766Zm2.95-2.531a.31.31,0,0,0-.31.31V17.578a.31.31,0,0,0,.31.309H16.454a.31.31,0,0,0,.31-.309V1.544a.31.31,0,0,0-.31-.31Z" transform="translate(0 0)" fill="#9e9e9e"/>
+    </g>
+  </g>
+  <g id="Group_12" data-name="Group 12" transform="translate(5.311 3.801)">
+    <path id="Fill_4" data-name="Fill 4" d="M9.677,0H.618a.618.618,0,1,0,0,1.235H9.677A.618.618,0,1,0,9.677,0" transform="translate(0.016 0.035)" fill="#9e9e9e"/>
+    <path id="Fill_6" data-name="Fill 6" d="M9.677,0H.618a.618.618,0,0,0,0,1.236H9.677A.618.618,0,1,0,9.677,0" transform="translate(0.016 2.975)" fill="#9e9e9e"/>
+    <path id="Fill_8" data-name="Fill 8" d="M9.677,0H.618a.618.618,0,1,0,0,1.235H9.677A.618.618,0,1,0,9.677,0" transform="translate(0.016 5.915)" fill="#9e9e9e"/>
+    <path id="Fill_10" data-name="Fill 10" d="M9.677,0H.618a.618.618,0,0,0,0,1.236H9.677A.618.618,0,1,0,9.677,0" transform="translate(0.016 8.855)" fill="#9e9e9e"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.624" height="19.176" viewBox="0 0 19.624 19.176">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H10.991V10.789H0Z" transform="translate(0.173)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Page_1" data-name="Page 1" transform="translate(-0.001 0)">
+    <g id="Group_6" data-name="Group 6" transform="translate(0 0)">
+      <g id="Group_3" data-name="Group 3" transform="translate(8.462)">
+        <path id="Clip_2-2" data-name="Clip 2" d="M0,0H10.991V10.789H0Z" transform="translate(0.173)" fill="none"/>
+        <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+          <path id="Fill_1" data-name="Fill 1" d="M10.161,3.309,7.652.824A2.887,2.887,0,0,0,3.626.812L.839,3.528A2.762,2.762,0,0,0,.828,7.483l1.59-1.53a1.437,1.437,0,0,1,.432-1.43L4.623,2.8A1.443,1.443,0,0,1,6.636,2.8l1.508,1.49a1.383,1.383,0,0,1-.005,1.978L6.366,8A1.64,1.64,0,0,1,4.9,8.435L3.34,9.964a2.883,2.883,0,0,0,4.026.012l2.782-2.714a2.756,2.756,0,0,0,.012-3.954" transform="translate(0.173 -0.001)" fill="#9e9e9e"/>
+        </g>
+      </g>
+      <path id="Fill_4" data-name="Fill 4" d="M8.6,4.917a1.6,1.6,0,0,1-.463,1.466L6.481,8a1.468,1.468,0,0,1-2.049-.01L2.893,6.477A1.407,1.407,0,0,1,2.9,4.464L4.558,2.847a1.519,1.519,0,0,1,1.49-.427L7.644.84a2.942,2.942,0,0,0-4.1-.012L.855,3.449A2.816,2.816,0,0,0,.844,7.48L3.4,10.007a2.945,2.945,0,0,0,4.1.009L10.188,7.4a2.82,2.82,0,0,0,.012-4.03Z" transform="translate(0.001 8.331)" fill="#9e9e9e"/>
+    </g>
+    <path id="Fill_7" data-name="Fill 7" d="M.281,6.219a.976.976,0,0,0,1.376.006L6.245,1.66A.971.971,0,0,0,4.878.281L.287,4.846A.972.972,0,0,0,.281,6.219" transform="translate(6.573 6.309)" fill="#9e9e9e"/>
+  </g>
+</svg>
